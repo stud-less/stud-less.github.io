@@ -1,26 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
 #dropdown-menu-3 .hide-buttons [data-button] {
   display: none !important;
 }
 #dropdown-menu-3 .nav .link,
 #dropdown-menu-3 .dropdown-item {
-  font-size: 1em;
-  color: #000000;
+  font-size: 1.4em;
+  color: #5bc0de;
+  font-family: 'Montserrat', sans-serif;
 }
 #dropdown-menu-3 .navbar,
 #dropdown-menu-3 .dropdown-menu {
-  background: #ffffff;
+  background: #dddddd;
 }
 #dropdown-menu-3 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-3 .dropdown-menu a:hover,
 #dropdown-menu-3 .dropdown-menu a:focus {
-  background: #f5f5f5;
+  background: #d3d3d3;
 }
 #dropdown-menu-3 .navbar-toggler {
-  color: #000000;
+  color: #5bc0de;
 }
 #header2-4 H1 {
-  color: #ffffff;
+  color: #dddddd;
 }
 #header2-4 P {
+  color: #dddddd;
+  font-size: 22px;
+}
+#header2-4 B {
   color: #ffffff;
 }
