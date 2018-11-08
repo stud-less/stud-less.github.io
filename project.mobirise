@@ -430,11 +430,11 @@
             "bgColorRadio": false,
             "bgColor": "#fff",
             "overlay": true,
-            "overlayColor": "#222",
+            "overlayColor": "#ffffff",
             "overlayOpacity": "0.6"
           },
           "title": "Остались вопросы? Пишите!",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info-outline btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить сообщение</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить сообщение</a>",
           "form": {
             "action": "vlad.fomin08@gmail.com",
             "alerts": {
