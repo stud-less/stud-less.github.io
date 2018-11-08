@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
-    "uniqCompNum": 8,
+    "uniqCompNum": 16,
     "versionPublish": "4.8.6"
   },
   "pages": {
@@ -38,10 +38,10 @@
               "font-family": "'Montserrat', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#dddddd"
+              "background": "#f1c050"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#d3d3d3"
+              "background": "#efb93d"
             },
             ".navbar-toggler": {
               "color": "#5bc0de"
@@ -53,7 +53,7 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#dddddd",
+            "bgColor": "#f1c050",
             "fontSize": "1.4",
             "fontName": {
               "name": "Montserrat",
@@ -137,7 +137,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#dddddd",
+            "bgColor": "#f1c050",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -233,8 +233,8 @@
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1279.jpg",
             "parallax": true,
@@ -256,6 +256,226 @@
           ],
           "_name": "content5",
           "_anchor": "content5-7"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f1c050",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#dddddd",
+            "overlayOpacity": 0.7
+          },
+          "title": "Никакой предоплаты",
+          "caption": "<p>Бла-бла-бла</p><p>Бла-бла-бла</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-b"
+        },
+        {
+          "_params": {
+            "firstType": "bg-success",
+            "secondType": "bg-warning",
+            "thirdType": "bg-danger",
+            "fourthType": "bg-primary",
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "showButtons": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1281.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#FFF8E0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0"
+          },
+          "title1": "Тариф 1",
+          "title2": "Тариф 2",
+          "title3": "Тариф 3",
+          "title4": "Тариф 4",
+          "currency1": "$",
+          "currency2": "$",
+          "currency3": "$",
+          "currency4": "$",
+          "price1": "0",
+          "price2": "0",
+          "price3": "0",
+          "price4": "0",
+          "period1": "per month",
+          "period2": "per month",
+          "period3": "per month",
+          "period4": "per month",
+          "list1": "<p><br></p><p><br></p><p><br></p><p><br></p>",
+          "list2": "<p><br></p><p><br></p><p><br></p><p><br></p>",
+          "list3": "<p><br></p><p><br></p><p><br></p><p><br></p>",
+          "list4": "<p><br></p><p><br></p><p><br></p><p><br></p>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Demo</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-c"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f1c050",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "Отзывы о нас",
+          "items": [
+            {
+              "authorName": "ABANOUB S.",
+              "authorBio": "User",
+              "text": "<em>\"бла-бла-бла\"</em>"
+            },
+            {
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User",
+              "text": "<em>\"бла-бла-бла\"</em>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<em>\"бла-бла-бла\"</em>"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-e",
+          "testimonial": [
+            {
+              "authorName": "ABANOUB S.",
+              "authorBio": "User",
+              "text": "<em>\"бла-бла-бла\"</em>"
+            },
+            {
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User",
+              "text": "<em>\"бла-бла-бла\"</em>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<em>\"бла-бла-бла\"</em>"
+            }
+          ]
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1276.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#dddddd",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
+          },
+          "title": "<b>Есть вопросы? Свяжитесь с нами</b>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning-outline btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить сообщение</a>",
+          "form": {
+            "action": "vlad.fomin08@gmail.com",
+            "alerts": {
+              "success": "Спасибо за сообщение!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Имя*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Телефон"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Ваше сообщение"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-d",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-title B": {
+              "font-size": "36px",
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f1c050",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 StudLess",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-f"
         }
       ]
     }

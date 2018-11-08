@@ -11,12 +11,12 @@
 }
 #dropdown-menu-3 .navbar,
 #dropdown-menu-3 .dropdown-menu {
-  background: #dddddd;
+  background: #f1c050;
 }
 #dropdown-menu-3 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-3 .dropdown-menu a:hover,
 #dropdown-menu-3 .dropdown-menu a:focus {
-  background: #d3d3d3;
+  background: #efb93d;
 }
 #dropdown-menu-3 .navbar-toggler {
   color: #5bc0de;
@@ -29,5 +29,12 @@
   font-size: 22px;
 }
 #header2-4 B {
+  color: #ffffff;
+}
+#form1-d .mbr-section-title {
+  color: #000000;
+}
+#form1-d .mbr-section-title B {
+  font-size: 36px;
   color: #ffffff;
 }
