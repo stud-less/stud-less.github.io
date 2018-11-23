@@ -33,16 +33,16 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1.4em",
+              "font-size": "1em",
               "color": "#5bc0de",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-family": "'Montserrat', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "font-family": "'Alegreya Sans', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#f1c050"
+              "background": "#f2f2f2"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#efb93d"
+              "background": "#e8e8e8"
             },
             ".navbar-toggler": {
               "color": "#5bc0de"
@@ -54,16 +54,16 @@
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#f1c050",
-            "fontSize": "1.4",
+            "bgColor": "#f2f2f2",
+            "fontSize": "1",
             "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
+              "name": "Alegreya Sans",
+              "url": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "css": "'Alegreya Sans', sans-serif"
             },
             "fontColor": "#5bc0de"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://stud-less.github.io\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://stud-less.github.io\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -75,7 +75,7 @@
               "title": ""
             }
           },
-          "brand": "<a class=\"text-info\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://stud-less.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STUDLESS</a>",
+          "brand": "<a class=\"text-info\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://stud-less.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STUDUP</a>",
           "_tags": [
             "Тема"
           ],
@@ -89,19 +89,19 @@
             "showText": true,
             "showButtons": false,
             "showArrow": true,
-            "contentAlign": "right",
+            "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1279.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColor": "#f2f2f2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": 0.5
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.2"
           },
           "title": "<b>StudLess - площадка для поиска тьюторов</b>",
           "text": "<b>Это место, где каждый желающий может найти для себя тьютора, а так же бла-бла-бла...</b>",
@@ -138,7 +138,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f1c050",
+            "bgColor": "#5bc0de",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -268,7 +268,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f1c050",
+            "bgColor": "#5bc0de",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -284,7 +284,15 @@
             "Тема"
           ],
           "_name": "content5",
-          "_anchor": "content5-b"
+          "_anchor": "content5-b",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fbfbfb"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_params": {
@@ -351,7 +359,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f1c050",
+            "bgColor": "#5bc0de",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -396,7 +404,12 @@
               "authorBio": "User",
               "text": "<em>\"бла-бла-бла\"</em>"
             }
-          ]
+          ],
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_params": {
@@ -406,7 +419,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f1c050",
+            "bgColor": "#5bc0de",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -431,7 +444,7 @@
             "bgColor": "#fff",
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.2"
           },
           "title": "Остались вопросы? Пишите!",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить сообщение</a>",

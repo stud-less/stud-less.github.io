@@ -1,22 +1,22 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
 
 #dropdown-menu-3 .hide-buttons [data-button] {
   display: none !important;
 }
 #dropdown-menu-3 .nav .link,
 #dropdown-menu-3 .dropdown-item {
-  font-size: 1.4em;
+  font-size: 1em;
   color: #5bc0de;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #dropdown-menu-3 .navbar,
 #dropdown-menu-3 .dropdown-menu {
-  background: #f1c050;
+  background: #f2f2f2;
 }
 #dropdown-menu-3 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-3 .dropdown-menu a:hover,
 #dropdown-menu-3 .dropdown-menu a:focus {
-  background: #efb93d;
+  background: #e8e8e8;
 }
 #dropdown-menu-3 .navbar-toggler {
   color: #5bc0de;
@@ -29,6 +29,15 @@
   font-size: 22px;
 }
 #header2-4 B {
+  color: #ffffff;
+}
+#content5-b .mbr-section-title {
+  color: #fbfbfb;
+}
+#content5-b P {
+  color: #ffffff;
+}
+#testimonials1-e .mbr-section-title {
   color: #ffffff;
 }
 #form1-g .mbr-section-title {
