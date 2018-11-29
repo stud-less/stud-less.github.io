@@ -405,8 +405,8 @@
         {
           "_params": {
             "showTitle": true,
-            "paddingTop": "3",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1920x1280.jpg",
             "parallax": true,
