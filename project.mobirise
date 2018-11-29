@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-08_1933",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -623,13 +623,13 @@
             "overlayOpacity": 0.5
           },
           "title1": "Математика",
-          "caption1": "<p>Самая точная наука из всех точных наук.</p><hr><p>Список тьютеров</p><hr><p><a href=\"page2.html\">Иванов Иван Иванович</a></p><br><p>Иванов Иван Иванович</p><br><p>Иванов Иван Иванович</p><br><p>Иванов Иван Иванович</p><br><p>Иванов Иван Иванович</p><br><p>Иванов Иван Иванович</p><br><p>Иванов Иван Иванович</p>",
+          "caption1": "<p>Самая точная наука из всех точных наук.</p><hr><p>Список тьюторов</p><hr><p><a href=\"page2.html\">Иванов Иван Иванович</a></p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p>",
           "title2": "Физика",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "<p>Не самая точная наука из всех наук.<br></p><hr><p>Список тьюторов</p><hr><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p>",
           "title3": "Химия",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "<p>Науки точнее не бывает.<br><br></p><hr><p>Список тьюторов</p><hr><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович<br></p>",
           "title4": "История",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "<p>Ну так себе точность у науки, но норм.</p><hr><p>Список тьюторов</p><hr><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович<br></p>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
