@@ -71,8 +71,9 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "",
-              "title": ""
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://stud-less.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STUDUP</a>",
@@ -290,8 +291,8 @@
             "overlayColor": "#dddddd",
             "overlayOpacity": 0.7
           },
-          "title": "Никакой предоплаты",
-          "caption": "<p>Приятные цены разнообразие системы оплат.</p><p>Бла-бла-бла</p>",
+          "title": "Информация по оплате",
+          "caption": "<p>Каждый тьютор предоставляет свою цену по предоставленым способам оплаты.</p><p>Каждый тьютор проверяется лично администрацией сайта.</p><p>Система оплаты осуществляется через посредника \"CuteMonster\" - известного своей качественной платежной системой и доверием многих компаний. Все что вам нужно это оплатить урок и по окончанию курса деньги автоматически переведутся на счет тьютора. В случае прекращения курса по вине тьютора или студента без предьявления причины - деньги будут возвращены. Все что вам будет необходимо - это <a href=\"index.html#form1-g\">написать жалобу администрации</a> с преьявой доказательств, после чего деньги будут возвращены, в случае прекращения курса тьютором и наоборот переведены тьютору, в случае прекращения курса студентом, без предьявления причины.<span style=\"font-size: 1.25rem;\">&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">По-этому в случае возникновения проблем с явкой на урок рекомендуется предупредить преподавателя</span></p>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -309,73 +310,20 @@
         },
         {
           "_params": {
-            "firstType": "bg-success",
-            "secondType": "bg-warning",
-            "thirdType": "bg-danger",
-            "fourthType": "bg-primary",
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "showButtons": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1281.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#FFF8E0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0"
-          },
-          "title1": "Тариф 1",
-          "title2": "Тариф 2",
-          "title3": "Тариф 3",
-          "title4": "Тариф 4",
-          "currency1": "$",
-          "currency2": "$",
-          "currency3": "$",
-          "currency4": "$",
-          "price1": "0",
-          "price2": "0",
-          "price3": "0",
-          "price4": "0",
-          "period1": "Площадка для тьюторов, цены по предмету преподавтаель выставляет индивидуально по своей квалификации и опыту работы с учениками опыту преподавателя&nbsp;",
-          "period2": "per month",
-          "period3": "per month",
-          "period4": "per month",
-          "list1": "<p><br></p><p><br></p><p><br></p><p><br></p>",
-          "list2": "<p><br></p><p><br></p><p><br></p><p><br></p>",
-          "list3": "<p><br></p><p><br></p><p><br></p><p><br></p>",
-          "list4": "<p><br></p><p><br></p><p><br></p><p><br></p>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Demo</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "pricing-table1",
-          "_anchor": "pricing-table1-c"
-        },
-        {
-          "_params": {
             "showTitle": true,
             "showName": true,
             "showBio": true,
             "count": 3,
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#f2f2f2",
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.4"
           },
           "header": "Отзывы о нас",
           "items": [
@@ -420,7 +368,7 @@
           ],
           "_styles": {
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".card-block EM": {
               "font-family": "'Noto Sans', sans-serif",
@@ -436,7 +384,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f2f2f2",
+            "bgColor": "#fbfbfb",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -459,11 +407,11 @@
             "showTitle": true,
             "paddingTop": "3",
             "paddingBottom": "0",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1920x1280.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgColor": "#f2f2f2",
             "overlay": true,
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.2"
@@ -505,7 +453,7 @@
           "_anchor": "form1-g",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           }
         }
@@ -595,8 +543,9 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "",
-              "title": ""
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://stud-less.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STUDUP</a>",
@@ -614,7 +563,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f2f2f2",
+            "bgColor": "#fbfbfb",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -720,8 +669,9 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "",
-              "title": ""
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://stud-less.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STUDUP</a>",
@@ -739,7 +689,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f2f2f2",
+            "bgColor": "#fbfbfb",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
