@@ -1,5 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+
 
 
 #dropdown-menu-3 .hide-buttons [data-button] {
@@ -8,7 +10,7 @@
 #dropdown-menu-3 .nav .link,
 #dropdown-menu-3 .dropdown-item {
   font-size: 1em;
-  color: #5bc0de;
+  color: #000000;
   font-family: 'Alegreya Sans', sans-serif;
 }
 #dropdown-menu-3 .navbar,
@@ -21,16 +23,17 @@
   background: #e8e8e8;
 }
 #dropdown-menu-3 .navbar-toggler {
-  color: #5bc0de;
+  color: #000000;
 }
 #header2-4 H1 {
-  color: #dddddd;
+  color: #ffffff;
   font-size: 60px;
 }
 #header2-4 P {
-  color: #dddddd;
-  font-size: 22px;
+  color: #ffffff;
+  font-size: 19px;
   text-align: center;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 #header2-4 B {
   color: #ffffff;
@@ -65,7 +68,7 @@
 #dropdown-menu-h .nav .link,
 #dropdown-menu-h .dropdown-item {
   font-size: 1em;
-  color: #5bc0de;
+  color: #000000;
   font-family: 'Alegreya Sans', sans-serif;
 }
 #dropdown-menu-h .navbar,
@@ -78,7 +81,7 @@
   background: #e8e8e8;
 }
 #dropdown-menu-h .navbar-toggler {
-  color: #5bc0de;
+  color: #000000;
 }
 #footer1-i P {
   color: #000000;
@@ -90,7 +93,7 @@
 #dropdown-menu-o .nav .link,
 #dropdown-menu-o .dropdown-item {
   font-size: 1em;
-  color: #5bc0de;
+  color: #000000;
   font-family: 'Alegreya Sans', sans-serif;
 }
 #dropdown-menu-o .navbar,
@@ -103,7 +106,7 @@
   background: #e8e8e8;
 }
 #dropdown-menu-o .navbar-toggler {
-  color: #5bc0de;
+  color: #000000;
 }
 #footer1-p P {
   color: #000000;

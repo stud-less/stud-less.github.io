@@ -34,7 +34,7 @@
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
-              "color": "#5bc0de",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
               "font-family": "'Alegreya Sans', sans-serif"
             },
@@ -45,7 +45,7 @@
               "background": "#e8e8e8"
             },
             ".navbar-toggler": {
-              "color": "#5bc0de"
+              "color": "#000000"
             }
           },
           "_params": {
@@ -61,9 +61,9 @@
               "url": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
               "css": "'Alegreya Sans', sans-serif"
             },
-            "fontColor": "#5bc0de"
+            "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://stud-less.github.io\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://stud-less.github.io\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -104,7 +104,7 @@
             "overlayOpacity": "0.4"
           },
           "title": "StudUP - площадка для поиска тьюторов",
-          "text": "<b>Объединяет учеников и репетиторов, и помогает достичь новых профессиональных высот</b>",
+          "text": "<br>Объединяет учеников и репетиторов, и помогает достичь новых профессиональных высот.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Узнать больше</a>",
           "alias": "purity/components",
           "_tags": [
@@ -114,13 +114,15 @@
           "_anchor": "header2-4",
           "_styles": {
             "H1": {
-              "color": "#dddddd",
+              "color": "#ffffff",
               "font-size": "60px"
             },
             "P": {
-              "color": "#dddddd",
-              "font-size": "22px",
-              "text-align": "center"
+              "color": "#ffffff",
+              "font-size": "19px",
+              "text-align": "center",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
             },
             "B": {
               "color": "#ffffff",
@@ -378,7 +380,7 @@
           "items": [
             {
               "authorName": "ABANOUB S.",
-              "authorBio": "User",
+              "authorBio": "Tutor",
               "text": "<em>\"бла-бла-бла\"</em>"
             },
             {
@@ -401,7 +403,7 @@
           "testimonial": [
             {
               "authorName": "ABANOUB S.",
-              "authorBio": "User",
+              "authorBio": "Tutor",
               "text": "<em>\"бла-бла-бла\"</em>"
             },
             {
@@ -450,8 +452,8 @@
         {
           "_params": {
             "showTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "3",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1920x1280.jpg",
             "parallax": true,
@@ -551,7 +553,7 @@
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
-              "color": "#5bc0de",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
               "font-family": "'Alegreya Sans', sans-serif"
             },
@@ -562,7 +564,7 @@
               "background": "#e8e8e8"
             },
             ".navbar-toggler": {
-              "color": "#5bc0de"
+              "color": "#000000"
             }
           },
           "_params": {
@@ -578,9 +580,9 @@
               "url": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
               "css": "'Alegreya Sans', sans-serif"
             },
-            "fontColor": "#5bc0de"
+            "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://stud-less.github.io\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://stud-less.github.io\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -676,7 +678,7 @@
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
-              "color": "#5bc0de",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
               "font-family": "'Alegreya Sans', sans-serif"
             },
@@ -687,7 +689,7 @@
               "background": "#e8e8e8"
             },
             ".navbar-toggler": {
-              "color": "#5bc0de"
+              "color": "#000000"
             }
           },
           "_params": {
@@ -703,9 +705,9 @@
               "url": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
               "css": "'Alegreya Sans', sans-serif"
             },
-            "fontColor": "#5bc0de"
+            "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://stud-less.github.io\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://stud-less.github.io\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
