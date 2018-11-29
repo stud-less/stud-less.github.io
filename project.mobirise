@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
-    "uniqCompNum": 28,
+    "uniqCompNum": 30,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png"
   },
@@ -462,7 +462,7 @@
     "page1.html": {
       "settings": {
         "title": "Tuters",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -621,7 +621,7 @@
     "page2.html": {
       "settings": {
         "title": "Иванов Иван Иванович",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
