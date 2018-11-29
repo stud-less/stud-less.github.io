@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-08_1933",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -216,18 +216,18 @@
               "size": 0
             }
           },
-          "title1": "<a href=\"page1.html\">Математика</a>",
+          "title1": "Математика",
           "caption1": "",
           "title2": "Физика",
-          "caption2": "бла-бла-бла",
+          "caption2": "",
           "title3": "Химия",
-          "caption3": "бла-бла-бла",
+          "caption3": "",
           "title4": "История",
-          "caption4": "бла-бла-бла",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "caption4": "",
+          "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Тьюторы</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Тьюторы</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Тьюторы</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Тьюторы</a> ",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -623,13 +623,13 @@
             "overlayOpacity": 0.5
           },
           "title1": "Математика",
-          "caption1": "<p>Самая точная наука из всех точных наук.</p><hr><p>Список тьюторов</p><hr><p><a href=\"page2.html\">Иванов Иван Иванович</a></p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p>",
+          "caption1": "<p>Самая точная наука из всех точных наук.</p><hr><p><b>Список тьюторов</b></p><hr><p><a href=\"page2.html\">Иванов Иван Иванович</a></p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p>",
           "title2": "Физика",
-          "caption2": "<p>Не самая точная наука из всех наук.<br></p><hr><p>Список тьюторов</p><hr><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p>",
+          "caption2": "<p>Предмет, по которому необходим сертификат ВНО для поступления в ВУЗ. И если вы плаваете в знаниях, на помощь придет репетитор.<br></p><hr><p><b>Список тьюторов</b></p><hr><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p>",
           "title3": "Химия",
-          "caption3": "<p>Науки точнее не бывает.<br><br></p><hr><p>Список тьюторов</p><hr><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович<br></p>",
+          "caption3": "<p>Науки точнее не бывает.<br><br></p><hr><p><b>Список тьюторов</b></p><hr><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович<br></p>",
           "title4": "История",
-          "caption4": "<p>Ну так себе точность у науки, но норм.</p><hr><p>Список тьюторов</p><hr><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович<br></p>",
+          "caption4": "<p>Ну так себе точность у науки, но норм.</p><hr><p><b>Список тьюторов</b></p><hr><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович<br></p>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
