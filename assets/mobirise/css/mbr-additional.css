@@ -50,6 +50,9 @@
   color: #ffffff;
 }
 
+#content5-r .mbr-section-title {
+  text-align: center;
+}
 #dropdown-menu-h .hide-buttons [data-button] {
   display: none !important;
 }
