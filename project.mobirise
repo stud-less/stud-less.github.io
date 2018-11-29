@@ -143,7 +143,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#5bc0de",
+            "bgColor": "#f2f2f2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -278,7 +278,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#5bc0de",
+            "bgColor": "#f2f2f2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -297,10 +297,10 @@
           "_anchor": "content5-b",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fbfbfb"
+              "color": "#000000"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           }
         },
@@ -369,7 +369,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#5bc0de",
+            "bgColor": "#f2f2f2",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -417,7 +417,7 @@
           ],
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           }
         },
