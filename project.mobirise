@@ -418,7 +418,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.2"
           },
-          "title": "Остались вопросы? Пишите!",
+          "title": "Связь с администрацией",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить сообщение</a>",
           "form": {
             "action": "vlad.fomin08@gmail.com",
