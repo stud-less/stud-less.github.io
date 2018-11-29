@@ -46,6 +46,9 @@
 #testimonials1-e .mbr-section-title {
   color: #ffffff;
 }
+#footer1-f P {
+  color: #000000;
+}
 #form1-g .mbr-section-title {
   color: #ffffff;
 }
@@ -74,6 +77,9 @@
 #dropdown-menu-h .navbar-toggler {
   color: #5bc0de;
 }
+#footer1-i P {
+  color: #000000;
+}
 
 #dropdown-menu-o .hide-buttons [data-button] {
   display: none !important;
@@ -95,4 +101,7 @@
 }
 #dropdown-menu-o .navbar-toggler {
   color: #5bc0de;
+}
+#footer1-p P {
+  color: #000000;
 }
