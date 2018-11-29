@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
-    "uniqCompNum": 17,
+    "uniqCompNum": 27,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png"
   },
@@ -52,8 +52,8 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": true,
-            "sticky": true,
-            "transparent": true,
+            "sticky": false,
+            "transparent": false,
             "bgColor": "#f2f2f2",
             "fontSize": "1",
             "fontName": {
@@ -63,7 +63,7 @@
             },
             "fontColor": "#5bc0de"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://stud-less.github.io\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://stud-less.github.io\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -103,8 +103,8 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.2"
           },
-          "title": "<b>StudLess - площадка для поиска тьюторов</b>",
-          "text": "<b>Это место, где каждый желающий может найти для себя тьютора, а так же бла-бла-бла...</b>",
+          "title": "StudLess - площадка для поиска тьюторов",
+          "text": "<b>Объединяет учеников и репетиторов, и помогает достичь новых профессиональных высот</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Узнать больше</a>",
           "alias": "purity/components",
           "_tags": [
@@ -114,14 +114,19 @@
           "_anchor": "header2-4",
           "_styles": {
             "H1": {
-              "color": "#dddddd"
+              "color": "#dddddd",
+              "font-size": "60px"
             },
             "P": {
               "color": "#dddddd",
-              "font-size": "22px"
+              "font-size": "22px",
+              "text-align": "center"
             },
             "B": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "20px"
             }
           }
         },
@@ -131,7 +136,7 @@
             "showTitles": true,
             "showCaptions": true,
             "showButtons": true,
-            "paddingTop": 3,
+            "paddingTop": "3",
             "paddingBottom": 3,
             "columns": 4,
             "bgImageRadio": false,
@@ -211,8 +216,8 @@
               "size": 0
             }
           },
-          "title1": "Математика",
-          "caption1": "бла-бла-бла",
+          "title1": "<a href=\"page1.html\">Математика</a>",
+          "caption1": "",
           "title2": "Физика",
           "caption2": "бла-бла-бла",
           "title3": "Химия",
@@ -486,6 +491,261 @@
               "color": "#ffffff"
             }
           }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Tuters",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#5bc0de",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "font-family": "'Alegreya Sans', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#f2f2f2"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#e8e8e8"
+            },
+            ".navbar-toggler": {
+              "color": "#5bc0de"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": false,
+            "transparent": false,
+            "bgColor": "#f2f2f2",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Alegreya Sans",
+              "url": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "css": "'Alegreya Sans', sans-serif"
+            },
+            "fontColor": "#5bc0de"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://stud-less.github.io\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bible-icon-8-128x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-info\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://stud-less.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STUDUP</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-h"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#5bc0de",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 StudLess",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-i"
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-1400x933.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-l"
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "Математика",
+          "caption1": "<p>Самая точная наука из всех точных наук.</p><hr><p>Список тьютеров</p><hr><p><a href=\"page2.html\">Иванов Иван Иванович</a></p><br><p>Иванов Иван Иванович</p><br><p>Иванов Иван Иванович</p><br><p>Иванов Иван Иванович</p><br><p>Иванов Иван Иванович</p><br><p>Иванов Иван Иванович</p><br><p>Иванов Иван Иванович</p>",
+          "title2": "Физика",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Химия",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "История",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-n"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Иванов Иван Иванович",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#5bc0de",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "font-family": "'Alegreya Sans', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#f2f2f2"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#e8e8e8"
+            },
+            ".navbar-toggler": {
+              "color": "#5bc0de"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": false,
+            "transparent": false,
+            "bgColor": "#f2f2f2",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Alegreya Sans",
+              "url": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "css": "'Alegreya Sans', sans-serif"
+            },
+            "fontColor": "#5bc0de"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://stud-less.github.io\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bible-icon-8-128x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-info\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://stud-less.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STUDUP</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-o"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#5bc0de",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 StudLess",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-p"
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/15426984956210-1120x640.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-q"
         }
       ]
     }
