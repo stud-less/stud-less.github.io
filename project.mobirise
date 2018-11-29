@@ -39,10 +39,10 @@
               "font-family": "'Alegreya Sans', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#f2f2f2"
+              "background": "#fbfbfb"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#e8e8e8"
+              "background": "#f1f1f1"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -54,7 +54,7 @@
             "hideButtons": false,
             "sticky": false,
             "transparent": false,
-            "bgColor": "#f2f2f2",
+            "bgColor": "#fbfbfb",
             "fontSize": "1",
             "fontName": {
               "name": "Alegreya Sans",
@@ -63,7 +63,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://stud-less.github.io\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Личный кабинет</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://stud-less.github.io\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"page2.html\">Личный кабинет</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -380,19 +380,19 @@
           "header": "Отзывы о нас",
           "items": [
             {
-              "authorName": "ABANOUB S.",
-              "authorBio": "Tutor",
-              "text": "<em>\"бла-бла-бла\"</em>"
+              "authorName": "Анастасия Л.",
+              "authorBio": "User",
+              "text": "\"Очень внимательны к подбору. Я не ожидала, что будут звонить и обсуждать подробности тех преподавателей, которые мне нужны. Я думала все автоматизировано, очень приятно было общаться с менеджерами. Спасибо за вашу работу.\""
             },
             {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User",
-              "text": "<em>\"бла-бла-бла\"</em>"
+              "authorName": "Владислав Ф.",
+              "authorBio": "Tutor",
+              "text": "\"Пользуюсь услугами этой компании как репетитор уже больше года. Недовольна работой менеджеров, особенно последние 5-6 месяцев. Заявки не обрабатываются, не отвечают месяцами, зато как приходит день оплаты начинают и названивать и писать много смс. А за что платить, мне интересно? За то что я 1-1,5 месяца жду когда же менеджер соизволит обработать мою заявку.\""
             },
             {
               "authorName": "JHOLLMAN C.",
               "authorBio": "User",
-              "text": "<em>\"бла-бла-бла\"</em>"
+              "text": "\"I have been working on this site for a year, and honestly, I could not find students anywhere, and there they found everything for a small commission (about 130% on average). I think this is normal. I found many students there, I work with pleasure, there were no conflicts. You just need to know the subtleties of work, then the cooperation with the site will be good.\""
             }
           ],
           "alias": "purity/components",
@@ -563,10 +563,10 @@
               "font-family": "'Alegreya Sans', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#f2f2f2"
+              "background": "#fbfbfb"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#e8e8e8"
+              "background": "#f1f1f1"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -578,7 +578,7 @@
             "hideButtons": false,
             "sticky": false,
             "transparent": false,
-            "bgColor": "#f2f2f2",
+            "bgColor": "#fbfbfb",
             "fontSize": "1",
             "fontName": {
               "name": "Alegreya Sans",
@@ -587,7 +587,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://stud-less.github.io\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Личный кабинет</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://stud-less.github.io\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"page2.html\">Личный кабинет</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -655,7 +655,7 @@
           "title1": "Математика",
           "caption1": "<p>Самая точная наука из всех точных наук.</p><hr><p><b>Список тьюторов</b></p><hr><p><a href=\"page2.html\">Иванов Иван Иванович</a></p><p><span style=\"font-size: 1rem;\">Пузакова Евдокия Ильевна</span></p><p><span style=\"font-size: 1rem;\">Обухов Антип Эрнестович</span></p><p><span style=\"font-size: 1rem;\">Сорокина Дарья Игоревна</span></p><p><span style=\"font-size: 1rem;\">Мурзак Елисей Моисеевич&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Яхаев Аким Яковович</span></p><p>Климова Кристина Станиславовна&nbsp;<br></p>",
           "title2": "Физика",
-          "caption2": "<p>Предмет, по которому необходим сертификат ВНО для поступления в ВУЗ. И если вы плаваете в знаниях, на помощь придет репетитор.<br></p><hr><p><b>Список тьюторов</b></p><hr><p><span style=\"font-size: 1rem;\"><br></span><span style=\"font-size: 1rem;\">Тесла Берта Мироновна</span></p><p><span style=\"font-size: 1rem;\">Иванов Иван Иванович</span><br></p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p>",
+          "caption2": "<p>Предмет, по которому необходим сертификат ВНО для поступления в ВУЗ. И если вы плаваете в знаниях, на помощь придет репетитор.<br></p><hr><p><b>Список тьюторов</b></p><hr><p><span style=\"font-size: 1rem;\"><br></span><span style=\"font-size: 1rem;\">Тесла Берта Мироновна</span></p><p><span style=\"font-size: 1rem;\">Моргунов Мартын Иванович</span></p><p><span style=\"font-size: 1rem;\">Родионова Оксана Анатолиевна</span></p><p><span style=\"font-size: 1rem;\">Копылов Александр Онуфриевич</span></p><p><span style=\"font-size: 1rem;\">Кирпа Лука Якубович</span></p><p><span style=\"font-size: 1rem;\">Жжёнова Любовь Тимуровна</span></p><p>Муханов Арсений Аполлинариевич<br></p>",
           "title3": "Химия",
           "caption3": "<p>Науки точнее не бывает.<br><br></p><hr><p><b>Список тьюторов</b></p><hr><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович</p><p>Иванов Иван Иванович<br></p>",
           "title4": "История",
@@ -688,10 +688,10 @@
               "font-family": "'Alegreya Sans', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#f2f2f2"
+              "background": "#fbfbfb"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#e8e8e8"
+              "background": "#f1f1f1"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -703,7 +703,7 @@
             "hideButtons": false,
             "sticky": false,
             "transparent": false,
-            "bgColor": "#f2f2f2",
+            "bgColor": "#fbfbfb",
             "fontSize": "1",
             "fontName": {
               "name": "Alegreya Sans",
@@ -712,7 +712,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://stud-less.github.io\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Личный кабинет</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://stud-less.github.io\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"page2.html\">Личный кабинет</a></li>",
           "logo": {
             "image": {
               "active": true,
