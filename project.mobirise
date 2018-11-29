@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-08_1933",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -101,7 +101,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.2"
+            "overlayOpacity": "0.4"
           },
           "title": "StudLess - площадка для поиска тьюторов",
           "text": "<b>Объединяет учеников и репетиторов, и помогает достичь новых профессиональных высот</b>",
