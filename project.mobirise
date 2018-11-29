@@ -6,7 +6,9 @@
       "name": "purity",
       "title": "PurityM",
       "styling": {},
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#222222"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
@@ -321,8 +323,8 @@
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#f2f2f2",
-            "overlay": true,
-            "overlayColor": "#222",
+            "overlay": false,
+            "overlayColor": "#222222",
             "overlayOpacity": "0.4"
           },
           "header": "Отзывы о нас",
@@ -453,7 +455,7 @@
           "_anchor": "form1-g",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#222222"
             }
           }
         }
