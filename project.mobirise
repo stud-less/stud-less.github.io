@@ -51,7 +51,7 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": false,
             "transparent": false,
             "bgColor": "#f2f2f2",
@@ -63,7 +63,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://stud-less.github.io\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://stud-less.github.io\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Личный кабинет</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -402,19 +402,19 @@
           "_anchor": "testimonials1-e",
           "testimonial": [
             {
-              "authorName": "ABANOUB S.",
-              "authorBio": "Tutor",
-              "text": "<em>\"бла-бла-бла\"</em>"
+              "authorName": "Анастасия Л.",
+              "authorBio": "User",
+              "text": "<em>\"Очень внимательны к подбору. Я не ожидала, что будут звонить и обсуждать подробности тех преподавателей, которые мне нужны. Я думала все автоматизировано, очень приятно было общаться с менеджерами. Спасибо за вашу работу\"</em>"
             },
             {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User",
-              "text": "<em>\"бла-бла-бла\"</em>"
+              "authorName": "Владислав Ф.",
+              "authorBio": "Tutor",
+              "text": "<em>\"Пользуюсь услугами этой компании как репетитор уже больше года. Недовольна работой менеджеров, особенно последние 5-6 месяцев. Заявки не обрабатываются, не отвечают месяцами, зато как приходит день оплаты начинают и названивать и писать много смс. А за что платить, мне интересно? За то что я 1-1,5 месяца жду когда же менеджер соизволит обработать мою заявку.\"</em>"
             },
             {
               "authorName": "JHOLLMAN C.",
               "authorBio": "User",
-              "text": "<em>\"бла-бла-бла\"</em>"
+              "text": "<em>\"Сервіс дуже хороший, багато учнів, однак робота менеджерів засмучує. Довго відповідають, доводиться чекати 2-3 дня на відповідь, а інколи і тиждень. Також дуже б хотілось оплачувати комісію через один місяць роботи з учнем, щоб зрозуміти, чи йому все подобається і надалі братиме уроки, чи ні ( інколи оплачуєш комісію, а учневі пізніше не підходить формат роботи з викладачем\"</em>"
             }
           ],
           "_styles": {
@@ -570,7 +570,7 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": false,
             "transparent": false,
             "bgColor": "#f2f2f2",
@@ -582,7 +582,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://stud-less.github.io\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://stud-less.github.io\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Личный кабинет</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -695,7 +695,7 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": false,
             "transparent": false,
             "bgColor": "#f2f2f2",
@@ -707,7 +707,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://stud-less.github.io\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://stud-less.github.io\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Личный кабинет</a></li>",
           "logo": {
             "image": {
               "active": true,
