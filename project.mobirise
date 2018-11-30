@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-08_1933",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -65,7 +65,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-g\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"page2.html\">Личный кабинет</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-g\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"page2.html\">Личный кабинет</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -537,7 +537,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-g\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"page2.html\">Личный кабинет</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-g\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"page2.html\">Личный кабинет</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -610,7 +610,7 @@
           "title3": "Химия",
           "caption3": "<p>Наверное, каждый в школе изучал важные факты в химии. При этом не каждый знает, что химия окружает нас повсюду...<br><br></p><hr><p><b>Список тьюторов</b></p><hr><p><span style=\"font-size: 1rem;\"><br></span><span style=\"font-size: 1rem;\">Кошкова Ника Василиевна</span></p><p><span style=\"font-size: 1rem;\">Базин Георгий Онуфриевич</span></p><p><span style=\"font-size: 1rem;\">Шереметьев Богдан Артемиевич</span></p><p><span style=\"font-size: 1rem;\">Медведева Ева Тимофеевна</span></p><p><span style=\"font-size: 1rem;\">Гремпель ﻿Август Карлович</span></p><p><span style=\"font-size: 1rem;\">Ясакова Евгения Александровна</span></p><p>Буков Леонид Казимирович&nbsp;<br></p>",
           "title4": "История",
-          "caption4": "<p>Ну так себе точность у науки, но норм.</p><hr><p><b>Список тьюторов</b></p><hr><p><span style=\"font-size: 1rem;\"><br></span><span style=\"font-size: 1rem;\">Корсаков Прокл Венедиктович</span></p><p><span style=\"font-size: 1rem;\">Трофимова Лариса Игоревна</span></p><p><span style=\"font-size: 1rem;\">Берёзкина Ева Игнатиевна</span></p><p><span style=\"font-size: 1rem;\">Благово Евграф Тихонович</span></p><p><span style=\"font-size: 1rem;\">Чалый Ксения Никитевна</span>&nbsp;&nbsp;&nbsp;&nbsp;</p><p><span style=\"font-size: 1rem;\">Шумилов Алексей Михаилович</span></p><p>Бессмертных Ян Епифанович <br></p>",
+          "caption4": "<p>Все это уже когда нибудь, где нибудь с кем нибудь происходило. На том наш брат сыщик стоял, стоит и стоять будет (с).</p><hr><p><b>Список тьюторов</b></p><hr><p><span style=\"font-size: 1rem;\"><br></span><span style=\"font-size: 1rem;\">Корсаков Прокл Венедиктович</span></p><p><span style=\"font-size: 1rem;\">Трофимова Лариса Игоревна</span></p><p><span style=\"font-size: 1rem;\">Берёзкина Ева Игнатиевна</span></p><p><span style=\"font-size: 1rem;\">Благово Евграф Тихонович</span></p><p><span style=\"font-size: 1rem;\">Чалый Ксения Никитевна</span>&nbsp;&nbsp;&nbsp;&nbsp;</p><p><span style=\"font-size: 1rem;\">Шумилов Алексей Михаилович</span></p><p>Бессмертных Ян Епифанович <br></p>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
@@ -663,7 +663,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-g\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"page2.html\">Личный кабинет</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-g\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"page2.html\">Личный кабинет</a></li>",
           "logo": {
             "image": {
               "active": true,
