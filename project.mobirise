@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-08_1933",
-    "currentPage": "page2.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -13,7 +13,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
-    "uniqCompNum": 34,
+    "uniqCompNum": 39,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png"
   },
@@ -673,7 +673,7 @@
     "page2.html": {
       "settings": {
         "title": "Иванов Иван Иванович",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -825,7 +825,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес:</strong><br>Первомайск, Николаевская область,<br>ул. Театральная.<br><br>\n<strong><br></strong><b>&nbsp;Образование:</b><br>Высшее техническое образование;<br>Киевский университет им. Тараса Шевченка;<br>Факультет математики и экономики.<br><br><br><b>Тьютор по предметам:</b><br>- Физика<br>- Анлийский<br>- Математика<br><br><br><strong>Контакты:</strong><br>\nEmail:ivanovick@gmail.com<br>\nPhone: (+380)99-64-78-512<br><br>",
+          "text1": "<strong>Адрес:</strong><br>Первомайск, Николаевская область,<br>ул. Театральная.<br><br>\n<strong><br></strong><b>&nbsp;Образование:</b><br>Высшее техническое образование;<br>Киевский университет им. Тараса Шевченка;<br>Факультет филологии.<br><br><br><b>Тьютор по предметам:</b><br>- Физика<br>- Анлийский<br>- Математика<br><br><br><strong>Контакты:</strong><br>\nEmail:ivanovick@gmail.com<br>\nPhone: (+380)99-64-78-512<br><br>",
           "text2": "<p><a href=\"https://t.me\" target=\"_blank\"></a><strong>Ссылка:</strong></p><ul><li>Telegram - @Ivanovich</li><li><a href=\"https://twitter.com\" target=\"_blank\">http://twitter.com/Ivanovich</a></li><li><a href=\"https://instagram.com/kamiengell\" target=\"_blank\">http://instagram.com/ivanovich</a></li></ul><p></p>",
           "alias": "purity/components",
           "_tags": [
@@ -833,6 +833,175 @@
           ],
           "_name": "contacts2",
           "_anchor": "contacts2-v"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "Пузакова Евдокия Ильевна",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/104658897-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222222",
+            "overlayOpacity": "0.3"
+          },
+          "title": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color=\"#f8f8f6\"><span style=\"font-size: 48px;\"><b>Пузакова Евдокия Ильевна</b></span></font><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Год рождения: 19.08.1978<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Пол: женский<br><br>О себе: филолог, преподаватель, ученый, магистр наук &nbsp;<br><br><br><br><br></p>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">For Windows</a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff",
+              "font-size": "32px",
+              "text-align": "left",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            "I": {
+              "color": "#f8f8f6"
+            },
+            "B": {
+              "font-size": "48px",
+              "color": "#f8f8f6"
+            },
+            "P": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "header4-z"
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "font-family": "'Alegreya Sans', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#fbfbfb"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f1f1f1"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": false,
+            "transparent": false,
+            "bgColor": "#fbfbfb",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Alegreya Sans",
+              "url": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "css": "'Alegreya Sans', sans-serif"
+            },
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form1-g\">Напишите нам</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"page2.html\">Личный кабинет</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bible-icon-8-128x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://stud-less.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STUDUP</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-10"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fbfbfb",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 StudUP",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-11"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Первомайск, Николаевская область, ул. Театральная ",
+              "placeId": "ChIJo-zQ1TdIzkARKby8VVdFG1M",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес:</strong><br>Первомайск, Николаевская область,<br>ул. Театральная.<br><br>\n<strong><br></strong><b>&nbsp;Образование:</b><br>Высшее техническое образование;<br>Киевский университет им. Тараса Шевченка;<br>Факультет филологии.<br><br><br><b>Тьютор по предметам:</b><br>- Физика<br>- Анлийский<br>- Математика<br><br><br><strong>Контакты:</strong><br>\nEmail:ivanovick@gmail.com<br>\nPhone: (+380)99-64-78-512<br><br>",
+          "text2": "<p><a href=\"https://t.me\" target=\"_blank\"></a><strong>Ссылка:</strong></p><ul><li>Telegram - @Ivanovich</li><li><a href=\"https://twitter.com\" target=\"_blank\">http://twitter.com/Ivanovich</a></li><li><a href=\"https://instagram.com/kamiengell\" target=\"_blank\">http://instagram.com/ivanovich</a></li></ul><p></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-12"
         }
       ]
     }

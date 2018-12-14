@@ -131,3 +131,45 @@
 #footer1-p P {
   color: #000000;
 }
+
+
+#header4-z H1 {
+  color: #ffffff;
+  font-size: 32px;
+  text-align: left;
+  font-family: 'Indie Flower', cursive;
+}
+#header4-z I {
+  color: #f8f8f6;
+}
+#header4-z B {
+  font-size: 48px;
+  color: #f8f8f6;
+}
+#header4-z P {
+  text-align: right;
+}
+#dropdown-menu-10 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-10 .nav .link,
+#dropdown-menu-10 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#dropdown-menu-10 .navbar,
+#dropdown-menu-10 .dropdown-menu {
+  background: #fbfbfb;
+}
+#dropdown-menu-10 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-10 .dropdown-menu a:hover,
+#dropdown-menu-10 .dropdown-menu a:focus {
+  background: #f1f1f1;
+}
+#dropdown-menu-10 .navbar-toggler {
+  color: #000000;
+}
+#footer1-11 P {
+  color: #000000;
+}
