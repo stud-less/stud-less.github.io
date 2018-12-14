@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-08_1933",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -13,7 +13,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
-    "uniqCompNum": 30,
+    "uniqCompNum": 34,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png"
   },
@@ -335,13 +335,13 @@
               "text": "\"Очень внимательны к подбору. Я не ожидала, что будут звонить и обсуждать подробности тех преподавателей, которые мне нужны. Я думала все автоматизировано, очень приятно было общаться с менеджерами. Спасибо за вашу работу.\""
             },
             {
-              "authorName": "Владислав Ф.",
+              "authorName": "Владислава Ф.",
               "authorBio": "Tutor",
               "text": "\"Пользуюсь услугами этой компании как репетитор уже больше года. Недовольна работой менеджеров, особенно последние 5-6 месяцев. Заявки не обрабатываются, не отвечают месяцами, зато как приходит день оплаты начинают и названивать и писать много смс. А за что платить, мне интересно? За то что я 1-1,5 месяца жду когда же менеджер соизволит обработать мою заявку.\""
             },
             {
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "User",
+              "authorName": "Vladimir P.",
+              "authorBio": "Tutor",
               "text": "\"I have been working on this site for a year, and honestly, I could not find students anywhere, and there they found everything for a small commission (about 130% on average). I think this is normal. I found many students there, I work with pleasure, there were no conflicts. You just need to know the subtleties of work, then the cooperation with the site will be good.\""
             }
           ],
@@ -617,6 +617,56 @@
           ],
           "_name": "content4",
           "_anchor": "content4-n"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Заявка на тьютора",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>",
+          "form": {
+            "action": "vlad.fomin08@gmail.com",
+            "alerts": {
+              "success": "Ваша заявка будет рассмотрена администрацией."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-u"
         }
       ]
     },
@@ -626,6 +676,49 @@
         "order": 2
       },
       "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/-1920x1275.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222222",
+            "overlayOpacity": "0.3"
+          },
+          "title": "Иванов Иван Иванович<br><br>Год рождения: 19.08.1978<br>Пол: мужской<br><br>физик, технолог, шоумен, плейбой, филантроп, миллиардер",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">For Windows</a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-x",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff",
+              "font-size": "48px",
+              "text-align": "left",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            "I": {
+              "color": "#f8f8f6"
+            }
+          }
+        },
         {
           "_styles": {
             ".hide-buttons [data-button]": {
@@ -711,28 +804,30 @@
         },
         {
           "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/15426984956210-1120x640.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text1": "<strong>Адрес:</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br>\n<strong><br></strong><b>&nbsp;Образование:</b><br>Высшее техническое образование;<br>Киевский университет им. Тараса Шевченка;<br>Факультет математики и экономики.<br><br><br><strong>Контакты:</strong><br>\nEmail:ivanovick@gmail.com<br>\nPhone: (+380)99-64-78-512<br><br>",
+          "text2": "<p><a href=\"https://t.me\" target=\"_blank\"></a><strong>Ссылка:</strong></p><ul><li>Telegram - @Ivanovich</li><li><a href=\"https://twitter.com\" target=\"_blank\">http://twitter.com/Ivanovich</a></li><li><a href=\"https://instagram.com/kamiengell\" target=\"_blank\">http://instagram.com/ivanovich</a></li></ul><p></p>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
           ],
-          "_name": "image1",
-          "_anchor": "image1-q"
+          "_name": "contacts2",
+          "_anchor": "contacts2-v"
         }
       ]
     }
