@@ -682,7 +682,7 @@
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "showArrow": false,
+            "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/-1920x1275.jpg",
@@ -697,7 +697,7 @@
             "overlayColor": "#222222",
             "overlayOpacity": "0.3"
           },
-          "title": "Иванов Иван Иванович<br><br>Год рождения: 19.08.1978<br>Пол: мужской<br><br>физик, технолог, шоумен, плейбой, филантроп, миллиардер",
+          "title": "<b>Иванов Иван Иванович</b><br><br>Год рождения: 19.08.1978<br>Пол: мужской<br><br>О себе: физик, технолог, шоумен, плейбой, филантроп, миллиардер<br><br><br><br><br>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">For Windows</a> ",
           "alias": "purity/components",
@@ -709,13 +709,16 @@
           "_styles": {
             "H1": {
               "color": "#ffffff",
-              "font-size": "48px",
+              "font-size": "32px",
               "text-align": "left",
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             },
             "I": {
               "color": "#f8f8f6"
+            },
+            "B": {
+              "font-size": "48px"
             }
           }
         },
@@ -815,12 +818,13 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
+              "address": "Первомайск, Николаевская область, ул. Театральная ",
+              "placeId": "ChIJo-zQ1TdIzkARKby8VVdFG1M",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес:</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br>\n<strong><br></strong><b>&nbsp;Образование:</b><br>Высшее техническое образование;<br>Киевский университет им. Тараса Шевченка;<br>Факультет математики и экономики.<br><br><br><strong>Контакты:</strong><br>\nEmail:ivanovick@gmail.com<br>\nPhone: (+380)99-64-78-512<br><br>",
+          "text1": "<strong>Адрес:</strong><br>Первомайск, Николаевская область,<br>ул. Театральная.<br><br>\n<strong><br></strong><b>&nbsp;Образование:</b><br>Высшее техническое образование;<br>Киевский университет им. Тараса Шевченка;<br>Факультет математики и экономики.<br><br><br><b>Тьютор по предметам:</b><br>- Физика<br>- Анлийский<br>- Математика<br><br><br><strong>Контакты:</strong><br>\nEmail:ivanovick@gmail.com<br>\nPhone: (+380)99-64-78-512<br><br>",
           "text2": "<p><a href=\"https://t.me\" target=\"_blank\"></a><strong>Ссылка:</strong></p><ul><li>Telegram - @Ivanovich</li><li><a href=\"https://twitter.com\" target=\"_blank\">http://twitter.com/Ivanovich</a></li><li><a href=\"https://instagram.com/kamiengell\" target=\"_blank\">http://instagram.com/ivanovich</a></li></ul><p></p>",
           "alias": "purity/components",
           "_tags": [

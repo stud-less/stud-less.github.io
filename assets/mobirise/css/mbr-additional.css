@@ -96,12 +96,15 @@
 
 #header4-x H1 {
   color: #ffffff;
-  font-size: 48px;
+  font-size: 32px;
   text-align: left;
   font-family: 'Indie Flower', cursive;
 }
 #header4-x I {
   color: #f8f8f6;
+}
+#header4-x B {
+  font-size: 48px;
 }
 #dropdown-menu-o .hide-buttons [data-button] {
   display: none !important;
