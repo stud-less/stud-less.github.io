@@ -621,13 +621,13 @@
         {
           "_params": {
             "showTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#f2f2f2",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -718,7 +718,8 @@
               "color": "#f8f8f6"
             },
             "B": {
-              "font-size": "48px"
+              "font-size": "48px",
+              "color": "#f8f8f6"
             }
           }
         },
